@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## link for etherscan
+
+ [here](https://sepolia.lineascan.build/address/0x5487De2C35889C1939ed5e29398D5DC2F5Ac34b9)
+
+### contract address :- 0x5487De2C35889C1939ed5e29398D5DC2F5Ac34b9
+
+### blockchain network :- Linea Testnet 
+
+
 ## Getting Started
 
 First, run the development server:
